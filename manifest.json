@@ -1,7 +1,11 @@
 {
-	"name": "Sample Theme",
-	"version": "1.0.0",
-	"minAppVersion": "1.0.0",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md"
+  "name": "Popping and Locking",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "author": "jfrye",
+  "authorUrl": "https://github.com/randoneering",
+  "modes": [
+    "dark",
+    "light"
+  ]
 }
